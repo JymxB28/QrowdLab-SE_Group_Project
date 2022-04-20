@@ -7,6 +7,7 @@
 </p>
 # Team Members
 👤 **Mrunal Badole, Ashna Kumar, Sohan Bandary**
+
 ### Mrunal Badole (2020IMG-039)
 * Github: [@JymxB28](https://github.com/JymxB28)
 
